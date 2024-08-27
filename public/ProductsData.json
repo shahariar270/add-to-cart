@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "image": "https://i.imgur.com/5KQ6YKhb.jpg",
+      "description": "Noise-cancelling wireless headphones with deep bass and 20-hour battery life.",
+      "price": "$99.99"
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch Series 5",
+      "image": "https://i.imgur.com/As2mMlx.png",
+      "description": "Fitness-focused smartwatch with heart rate monitoring, GPS, and sleep tracking.",
+      "price": "$249.99"
+    },
+    {
+      "id": 3,
+      "name": "4K Ultra HD Smart TV",
+      "image": "https://st2.depositphotos.com/1000128/5298/i/450/depositphotos_52982327-stock-photo-smart-tv.jpg",
+      "description": "55-inch 4K Ultra HD Smart TV with built-in streaming apps and voice control.",
+      "price": "$499.99"
+    },
+    {
+      "id": 4,
+      "name": "Electric Standing Desk",
+      "image": "https://www.shutterstock.com/image-photo/adjustable-height-desk-stand-office-260nw-2114856605.jpg",
+      "description": "Height-adjustable electric standing desk with memory presets and sturdy construction.",
+      "price": "$349.99"
+    },
+    {
+      "id": 5,
+      "name": "Gaming Laptop",
+      "image": "https://media.istockphoto.com/id/1349374810/photo/a-laptop-half-closed-bright-and-glowing.webp?b=1&s=170667a&w=0&k=20&c=4FCH8WYUA8YtGHJ8yDFJqTklSVGX5pMGAQNoo04d_K4=",
+      "description": "High-performance gaming laptop with NVIDIA graphics, Intel i7 processor, and RGB keyboard.",
+      "price": "$1,299.99"
+    },
+    {
+      "id": 6,
+      "name": "Noise-Cancelling Earbuds",
+      "image": "https://media.istockphoto.com/id/1939097229/photo/noise-canceling-headphone-with-sound-absorbing-cotton-background-3d-rendering.webp?b=1&s=612x612&w=0&k=20&c=2WsgyIP2poStg1DPYVLM7r6GvY6GBVHLUkF00rjLTPY=",
+      "description": "Compact noise-cancelling earbuds with wireless charging and superior sound quality.",
+      "price": "$79.99"
+    },
+    {
+      "id": 7,
+      "name": "Smart Home Security Camera",
+      "image": "https://thumbs.dreamstime.com/b/hand-holding-d-rendering-mobile-connect-security-camera-104775074.jpg",
+      "description": "1080p HD smart security camera with night vision and motion detection alerts.",
+      "price": "$149.99"
+    },
+    {
+      "id": 8,
+      "name": "Electric Toothbrush",
+      "image": "https://img.freepik.com/free-vector/realistic-toothbrushes-set_1284-21540.jpg",
+      "description": "Rechargeable electric toothbrush with multiple cleaning modes and long battery life.",
+      "price": "$59.99"
+    },
+    {
+      "id": 9,
+      "name": "Portable Power Bank",
+      "image": "https://thumbs.dreamstime.com/b/charging-power-bank-portable-powerbank-white-usb-cable-charger-mobile-phone-smartphone-battery-modern-charging-power-226044266.jpg",
+      "description": "10000mAh portable power bank with dual USB ports and fast charging capability.",
+      "price": "$29.99"
+    },
+    {
+      "id": 10,
+      "name": "Smart Thermostat",
+      "image": "https://thumbs.dreamstime.com/b/smart-thermostat-person-setting-up-temperature-smart-device-hand-hold-white-background-smart-thermostat-165171784.jpg",
+      "description": "Wi-Fi enabled smart thermostat with voice control and energy-saving features.",
+      "price": "$199.99"
+    }
+,
+  {
+      "name": "Apple iPhone 13",
+      "price": "$699.00",
+      "description": "The Apple iPhone 13 features a stunning new design, advanced camera system, and powerful A15 Bionic chip.",
+      "image": "https://cdn.pixabay.com/photo/2021/09/25/17/43/iphone-13-6655518_1280.jpg"
+  },
+  {
+      "name": "Samsung Galaxy S21",
+      "price": "$799.99",
+      "description": "The Samsung Galaxy S21 offers a revolutionary camera experience with a sleek design and powerful performance.",
+      "image": "https://thumbs.dreamstime.com/b/samsung-s-ultra-g-phantom-black-new-york-ny-april-samsung-s-ultra-g-phantom-black-214954896.jpg"
+  }
+]
